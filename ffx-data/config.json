@@ -83,6 +83,55 @@
           "price": 99
         }
       ]
+    },
+    "in": {
+      "packages": [
+        {
+          "label": "50 Diamond (Indo)",
+          "name": "50 Diamond (Indo)",
+          "price": 75
+        },
+        {
+          "label": "70 Diamond (Indo)",
+          "name": "70 Diamond (Indo)",
+          "price": 100
+        },
+        {
+          "label": "100 Diamond (Indo)",
+          "name": "100 Diamond (Indo)",
+          "price": 140
+        },
+        {
+          "label": "140 Diamond (Indo)",
+          "name": "140 Diamond (Indo)",
+          "price": 190
+        },
+        {
+          "label": "355 Diamond (Indo)",
+          "name": "355 Diamond (Indo)",
+          "price": 465
+        },
+        {
+          "label": "720 Diamond (Indo)",
+          "name": "720 Diamond (Indo)",
+          "price": 910
+        },
+        {
+          "label": "7290Diamond (Indo)",
+          "name": "7290Diamond (Indo)",
+          "price": 8890
+        },
+        {
+          "label": "Weekly (Indo)",
+          "name": "Weekly (Indo)",
+          "price": 290
+        },
+        {
+          "label": "Monthly (Indo)",
+          "name": "Monthly (Indo)",
+          "price": 875
+        }
+      ]
     }
   },
   "texts": {
