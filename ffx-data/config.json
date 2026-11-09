@@ -1,7 +1,11 @@
 {
   "logo": null,
   "ffBanner": "ff-banner-1794128605626.jpg",
-  "ffPackages": null,
   "banners": null,
-  "quick": null
+  "quick": null,
+  "images": null,
+  "prod": null,
+  "texts": {
+    "siteName": "MHT TOPUP STORE"
+  }
 }
