@@ -84,6 +84,50 @@
         }
       ]
     },
+    "wm": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 155
+        },
+        {
+          "label": "2X WEEKLY",
+          "name": "2X WEEKLY",
+          "price": 310
+        },
+        {
+          "label": "3X WEEKLY",
+          "name": "3X WEEKLY",
+          "price": 465
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 770
+        },
+        {
+          "label": "2X MONTHLY",
+          "name": "2X MONTHLY",
+          "price": 1540
+        },
+        {
+          "label": "1X WEEKLY+1X MONTHLY",
+          "name": "1X WEEKLY+1X MONTHLY",
+          "price": 925
+        },
+        {
+          "label": "3X WEEKLY+1X MONTHLY",
+          "name": "3X WEEKLY+1X MONTHLY",
+          "price": 1235
+        },
+        {
+          "label": "15X WEEKLY+9X MONTHLY",
+          "name": "15X WEEKLY+9X MONTHLY",
+          "price": 9350
+        }
+      ]
+    },
     "in": {
       "packages": [
         {
@@ -132,56 +176,13 @@
           "price": 875
         }
       ]
-    },
-    "wm": {
-      "packages": [
-        {
-          "label": "WEEKLY",
-          "name": "WEEKLY",
-          "price": 155
-        },
-        {
-          "label": "2X WEEKLY",
-          "name": "2X WEEKLY",
-          "price": 310
-        },
-        {
-          "label": "3X WEEKLY",
-          "name": "3X WEEKLY",
-          "price": 465
-        },
-        {
-          "label": "MONTHLY",
-          "name": "MONTHLY",
-          "price": 770
-        },
-        {
-          "label": "2X MONTHLY",
-          "name": "2X MONTHLY",
-          "price": 1540
-        },
-        {
-          "label": "1X WEEKLY+1X MONTHLY",
-          "name": "1X WEEKLY+1X MONTHLY",
-          "price": 925
-        },
-        {
-          "label": "3X WEEKLY+1X MONTHLY",
-          "name": "3X WEEKLY+1X MONTHLY",
-          "price": 1235
-        },
-        {
-          "label": "15X WEEKLY+9X MONTHLY",
-          "name": "15X WEEKLY+9X MONTHLY",
-          "price": 9350
-        }
-      ]
     }
   },
   "texts": {
     "siteName": "MHT TOPUP STORE",
-    "hours": "সকাল ৮টা থেকে রাত ১০টা",
     "sec1": "FREE FIRE ALL TOPUP",
-    "sec2": "UID CHECKER FREE"
+    "sec2": "UID CHECKER FREE",
+    "hours": "সকাল ৮টা থেকে রাত ১০টা",
+    "playUrl": "https://tanvirtanha29.github.io/MHT-TOPUP-STORE-DOWNLOAD/"
   }
 }
