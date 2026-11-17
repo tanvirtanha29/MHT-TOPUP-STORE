@@ -198,6 +198,11 @@
           "label": "5X Weekly Lite",
           "name": "5X Weekly Lite",
           "price": 200
+        },
+        {
+          "label": "40X Weekly Lite",
+          "name": "Premium Package",
+          "price": 1960
         }
       ]
     }
